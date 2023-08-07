@@ -1,4 +1,4 @@
-# online-cinema-kinohoot
+# Online Cinema KinoHoot/KinoLoad
 JavaScript Project - Cinema Online "KinoHoot" | HTML3/CSS3
 
 ➼ Technology stack: HTML (HTML5), CSS (CSS3), JavaScript, SCSS/Sass, GULP, (Flexbox - Grid), BEM.
